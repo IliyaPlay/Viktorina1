@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Russian Viktorina</string>
+    <string name="TextView"></string>
+    <string name="MainMenuButton">Играть</string>
+</resources>
